@@ -21,4 +21,4 @@ I'm a passionate **Node.js Developer** with expertise in building dynamic web ap
 - **Portfolio:** [Your Portfolio](https://your-portfolio-link.vercel.app)  
 
 ## 📊 GitHub Stats  
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedantNikam&show_icons=true&theme=radical)  
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedNik3&show_icons=true&theme=radical)  
